@@ -26,7 +26,7 @@
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan00700)](https://github.com/anuraghazra/github-readme-stats) 
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/Ivan_ok?ext=activity)
   
 </div>
 
