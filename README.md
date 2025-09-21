@@ -31,11 +31,20 @@
 </div>
 
 <div align="center">
+</div>
+
+<div align="center">
+
+![Visitors](https://count.getloli.com/@Ivan00700?name=yashelter&theme=booru-qualityhentais&padding=8&offset=0&align=center&scale=1.1&pixelated=1&darkmode=auto)
+
+</div>
+
+
+<div align="center">
 
 [![Ivan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ivan00700&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
-
 
 
 
